@@ -35,6 +35,8 @@ Practice queries using public US Census CSV data
 ### 3. California Budget Analysis 
 Exploratory SQL Queries using California government spending or budget data.
 
+### 4. Try Yourself (Projects from the book)
+
 ## Tools Used
 - Postgres SQL
 - pgAdmin
