@@ -32,7 +32,7 @@ A SQL exercise that calculates a darts score based on x and y coordinates.
 ### 2. Census Data Analysis 
 Practice queries using public US Census CSV data
 
-### California Budget Analysis 
+### 3. California Budget Analysis 
 Exploratory SQL Queries using California government spending or budget data.
 
 ## Tools Used
