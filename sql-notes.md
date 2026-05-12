@@ -26,6 +26,8 @@ FROM orders;
 ## 2. Query Pattern Sections
 You should organize your notes by **query pattern**, not just definitions.
 
+## 3. Try Yourself (Projects from the book)
+
 # Recommended sections:
 ```markdown
 ## Basic Query Structure
